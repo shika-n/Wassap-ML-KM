@@ -1,0 +1,10 @@
+====Data Points====
+0.002567716643075254 - As reported on the BBC News website, a Nottingham University study found that capsaicin, an ingredient found in chili peppers, has the ability to trigger the death of cancer cells.
+0.003105555642546781 - Capsaicin does this by attacking the mitochondria (mitochrondria can be thought of as cellular power plants) of cancer cells.
+0.0037189779400243423 - According to Dr. Timothy Bates, a single dose of capsaicin could force a cancer cell into apoptosis, or cell death.
+0.003198886875014251 - A capsaicin dose could do this without affecting the surrounding normal cells.
+0.0028340776466431405 - Dr. Bates went on to speculate that capsaicin might potentially be used in a topical form for the treament of certain skin cancers (though the Nottingham study tested capsaicin on human cultures of lung tumors and tumors of the pancreas).
+====Centroid Iteration No. 1====
+0.002567716643075254
+====Centroid Iteration No. 2====
+0.0030850429494607536

@@ -1,0 +1,11 @@
+Many problems in  NLP, e.g., parsing [2] word sense disambiguation[3], and automatic paraphrasing [4]have benefited significantly by the introduction of robust statistical techniques.
+
+The need for getting maximum information by spending minimum time has led to more efforts  being directed to the field of summarization.
+
+So in this paper we will discuss an unsupervised learning technique for the Automated Summarization problem.
+
+There are basically two methods of summarization: extraction and abstraction.
+
+
+
+This is 23.53%% of the original content.

@@ -1,0 +1,40 @@
+====Data Points====
+0.0027299072646173026 - Almost 3000 years of food evolution has taken place for the pizza pie to reach its current delicious state today.
+0.0033401970685106967 - Although flat breads have been around for 6000 years, the word “pizziare” started appearing in Italian writings as far back as 1000 B.C.
+0.004001089521454509 - The word pizza itself is believed to have originated from an “Old Italian” word meaning “a point,” which in turn became the Italian word “pizziare,” which means to pinch, or to pluck.
+0.004692834027259846 - Tomatoes were first introduced to Italy from South America in 1522.
+0.00214170131714191 - At first the tomato was believed to be poisonous.
+0.0007018092192758481 - Fortunately, the poorer peasants of the region finally overcame their doubts about tomatoes in the 17th century and began adding it to the bread dough, and the first pizzas were created.
+0.0012224089470998813 - As the popularity of the tomato became widespread, mozzarella cheese was slowly gaining ground.
+0.00364516905759846 - Mozzarella had become available in Italy only after water buffalo were imported from India in the 7th century, (mozzarella was first made with water buffalo milk).
+0.001865256477587068 - Its popularity grew very slowly until the last half of the 18th century, but the cheese and tomatoes did not meet on a pizza until 1889.
+0.0025881087649527357 - In 1889, an Italian tavern owner named Don Raffaele Esposito developed a pizza featuring tomatoes, mozzarella cheese and basil – ingredients bearing the colors of the Italian flag.
+0.0007821518662349962 - He named it the Margherita Pizza, after the Queen of Italy, Margherita Teresa Giovanni.
+0.0029976294217641058 - Thus, modern-day tomato-and-cheese pizza was born.
+0.00014181651234861884 - In the later half of the 19th century, pizza migrated to America with the Italians.
+0.0018477720835942122 - By the turn of the century, the Italian immigrants had begun to open their own bakeries and were selling groceries as well as pizza.
+0.0032912491877015978 - Gennaro Lombardi opened the first true U.S. pizzeria in 1905 at 53 1/3 Spring Street in New York City, a part of town known as “Little Italy.”
+====Centroid Iteration No. 1====
+0.00014181651234861884
+0.0005969182638397416
+0.0010520200153308645
+0.0015071217668219871
+0.00196222351831311
+0.0024173252698042325
+0.0028724270212953555
+0.003327528772786478
+0.003782630524277601
+0.004237732275768724
+0.004692834027259846
+====Centroid Iteration No. 2====
+0.00014181651234861884
+0.0007419805427554221
+0.0012224089470998813
+0.0015071217668219871
+0.0019515766261077301
+0.0025881087649527357
+0.002863768343190704
+0.0033157231281061472
+0.0038231292895264846
+0.004237732275768724
+0.004692834027259846

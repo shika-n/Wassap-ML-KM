@@ -1,0 +1,19 @@
+====Data Points====
+0.0058087356840807415 - According to the results of a german study, there may be something to this.
+0.0065560698815428685 - The study found that drinking black tea had a significant effect on artery dilation.
+0.0058343776138557145 - The ability of arteries to dilate, or expand, is important to the maintenance of normal blood pressure levels.
+0.0060628900474236375 - How can the consumption of black tea protect against high blood pressure?
+0.006401502876904815 - The researchers found that molecular substances in black tea known as catechins help to expand arteries by producing nitric oxide.
+0.005600323864840021 - Interestingly enough, many british tea drinkers may be unknowingly giving up the heart health benefits of tea.
+0.006761052479535817 - How is this the case?
+0.006167577526943664 - The german study group found that adding milk to tea, the habit of most british tea drinkers, introduces caseins (caseins are proteins found in milk) that block the ability of catechins to dilate blood vessels.
+====Centroid Iteration No. 1====
+0.005600323864840021
+0.005987233403071953
+0.006374142941303885
+0.006761052479535817
+====Centroid Iteration No. 2====
+0.005600323864840021
+0.005968395218075939
+0.006478786379223842
+0.006761052479535817

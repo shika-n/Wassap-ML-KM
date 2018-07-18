@@ -1,0 +1,9 @@
+====Data Points====
+0.001326975365654926 - A recent study found that, in men, increases in trans fat consumption correlated with waistline increases (the effect on women may be similar and it would be interesting to find research that substantiates this or not).
+0.0006060265890658221 - To be sure, a wider waist is something that both genders would prefer to avoid, particularly those with dieting goals.
+0.000463798510633384 - Fortunately, manufacturers of microwavable meals now provide a range of choices that are not only palatable (and in some cases, very tasty) and low in calories, but are also designed with the trans fat issue in mind.
+0.0006820585664982254 - For example, microwave meals bearing the brand names Smart Ones (a weight watchers product), Lean Cuisine (a Stouffer's product line), and Healthy Choice are now available with zero trans fat levels.
+====Centroid Iteration No. 1====
+0.000463798510633384
+====Centroid Iteration No. 2====
+0.0007697147579630894

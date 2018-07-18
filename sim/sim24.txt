@@ -1,0 +1,50 @@
+====Data Points====
+0.003946217627861843 - Fast food nutrition should make up a minimal part of a healthy diet.
+0.003362876675905212 - Fast foods and junk foods are high in fat, sodium and sugar, which can lead to obesity and a range of attendant health problems, including diabetes, heart disease and arthritis.
+0.0035964032649126116 - Here are the facts about how excessive junk food consumption affects your body.
+0.004146683470328562 - Junk Food Affects Your Energy LevelsJunk food doesn't contain the nutrients your body needs to stay healthy.
+0.003233764160240414 - As a result, you may feel chronically fatigued and lack the energy you need to complete daily tasks.
+0.004732873236632299 - The high levels of sugar in junk food puts your metabolism under stress; when you eat refined sugar, your pancreas secretes high amounts of insulin to prevent a dangerous spike in blood sugar levels.
+0.0034871777256025365 - Because fast food and junk food don't contain adequate amounts of protein and good carbohydrates, your blood sugar levels will drop suddenly after eating, leaving you feeling grumpy, fatigued and craving sugar.
+0.003443004110602131 - Junk Food Contributes to Poor Performance and ObesityJunk food contains large amounts of fat, and as fat accumulates in your body, you'll gain weight and could become obese.
+0.0034412985625813628 - The more weight you gain, the more you'll be at risk for serious chronic illnesses such as diabetes, heart disease and arthritis.
+0.003852772982047541 - You could even have a heart attack.
+0.0047198954378795096 - The high levels of fat and sodium in junk food can cause high blood pressure or hypertension.
+0.0032199960100143064 - Excessive dietary sodium can also have a negative effect on renal function, even leading to kidney disease.
+0.003836718147901413 - In the short term, high levels of dietary fat lead to poor cognitive performance.
+0.0031318146004864237 - You'll feel tired and have trouble concentrating because your body might not be getting enough oxygen.
+0.0038986520429593824 - Junk Food Can Damage Your Liver and Your HeartThe high levels of fat and sodium in junk food and fast food can contribute to heart disease by raising blood cholesterol levels and contributing to arterial plaque build up.
+0.003603808232293815 - The high levels of trans fatty acids found in many junk foods and fast foods can lead to fatty liver deposits, which, over time, can cause liver dysfunction and disease.
+0.004260982522607929 - Junk Food Can Lead to DiabetesOver time, the high levels of sugar and simple carbohydrates in junk food can lead to type 2 diabetes.
+0.00409759997010037 - This occurs because eating too much sugar puts your metabolism under stress; when you eat a lot of refined white sugar and simple carbohydrates, your body has to pump up insulin production to prevent a dangerous spike in blood sugar levels.
+0.004351703150347113 - Because junk food doesn't contain the protein or complex carbohydrates that your body needs to maintain consistent blood sugar levels, your blood sugar levels will drop suddenly soon after eating.
+0.00383473644418996 - You'll crave sugar and likely end up eating more junk food.
+0.0035278497434472894 - Over time, this stress damages your body's ability to use the insulin secreted by your pancrease.
+0.003856438901968601 - A healthy diet can help maintain your body's insulin sensitivity.
+0.004087061473115819 - Even in the short term, eating too much junk food can make you feel really uncomfortable.
+0.0032424462165573918 - It can lead to mood swings and constipation, and lower your energy levels so that you lack interest in the exercise you need to burn off those extra calories.
+====Centroid Iteration No. 1====
+0.0031318146004864237
+0.0036655008125350487
+0.004199187024583674
+0.004732873236632299
+====Centroid Iteration No. 2====
+0.0032381795326407495
+0.003670805468955149
+0.004148374702393606
+0.004726384337255904
+====Centroid Iteration No. 3====
+0.003296457190912463
+0.003721617498369239
+0.004148374702393606
+0.004726384337255904
+====Centroid Iteration No. 4====
+0.0033202972577487224
+0.0037509224699650767
+0.004148374702393606
+0.004726384337255904
+====Centroid Iteration No. 5====
+0.003343358645048563
+0.003803218455516896
+0.0041888061172999595
+0.004726384337255904

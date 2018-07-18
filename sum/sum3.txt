@@ -1,0 +1,11 @@
+Of specific focus is machine learning, a particular approach to AI and the driving force behind recent developments.
+
+While the deployment of AI in Internet based services is not new, the current trend points to AI as an increasingly important factor in the Internet's future development and use.
+
+As such, these guiding principles and recommendations are a first attempt to guide the debate going forward.
+
+They include: ethical considerations in deployment and design; ensuring the Interpretability of AI systems; empowering the consumer; responsibility in the deployment of AI systems; ensuring accountability; and, creating a social and economic environment that is formed through the open participation of different stakeholders.
+
+
+
+This is 28.57%% of the original content.

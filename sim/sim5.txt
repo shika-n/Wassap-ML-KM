@@ -1,0 +1,25 @@
+====Data Points====
+0.003259764877230393 - The concept of Discord came from CEO Jason Citron, who had founded OpenFeint, a social gaming platform for mobile games.
+0.002641231522324831 - He eventually sold OpenFeint to GREE in 2011 for $104 million, which he used to found Hammer & Chisel, a game development studio, in 2012.
+0.0032076867797218855 - Their original product was Fates Forever released in 2014, which Citron anticipated to be the first MOBA game on mobile platforms.
+0.0033053376267014557 - While Fates Forever was not commercially successful due to low popularity, Citron noted the difficulties that his team had in building the game when trying to play other representative games like Final Fantasy XIV and League of Legends to work out gameplay concepts, specifically highlighting issues of current Voice over IP options that were available: some VoIP options required players to share various IP addresses just to connect, while other services like Skype or TeamSpeak were resource-heavy and had known security issues.
+0.003395869138474442 - This led the developers towards developing a chat service that was much friendlier to use based on more modern technology.
+0.0031808166590282135 - To develop Discord, Hammer & Chisel gained additional funding from YouWeb's 9+ incubator, who had also funded the startup of Hammer & Chisel, and from Benchmark capital and Tencent.
+0.0037781245395461056 - The public release of Discord was in May 2015.
+0.0029252595548954164 - According to Citron, the only area that they pushed Discord into was for the Reddit communities, finding that many subreddit forums were replacing IRC servers with Discord ones.
+0.003747489976238146 - Discord became popular through eSports and LAN tournament gamers and through other Twitch.tv streamers.
+0.0037792730642979932 - The company raised an additional $20 million in funding for the software in January 2016.
+====Centroid Iteration No. 1====
+0.002641231522324831
+0.0028688398307194635
+0.003096448139114096
+0.0033240564475087286
+0.0035516647559033607
+0.0037792730642979932
+====Centroid Iteration No. 2====
+0.002641231522324831
+0.0029252595548954164
+0.0031942517193750495
+0.0033203238808020966
+0.0035516647559033607
+0.0037682958600274152

@@ -1,0 +1,28 @@
+====Data Points====
+0.004735348245452485 - The more scientists learn about chocolate, the more amazing chocolate seems.
+0.004203904673865347 - What are the benefits of chocolate aside from the feeling of satisfaction that only chocolate can bring?
+0.004040179701350188 - Here's a short list of the benefits of chocolate.
+0.005595030585815413 - Chocolate, according to recent research, may provide a mental boost by elevating blood flow to the brain.
+0.005670176761823097 - The effect of this is that chocolate may be good for improving one's memory and attention and may be helpful for speeding up reaction times.
+0.006260295557752854 - Chocolate may be good for the skin.
+0.0051708395048412 - A German study found that women who were given chocolate cocoa every day for a period of three months had skin that was moister and softer, possibly as a result of improved blood circulation.
+0.004995268816737223 - Chocolate may provide some level of protection against heart disease.
+0.005396947843014982 - Researchers have found that dark chocolate consumption reduces hypertension, reduces cholesterol levels, and adds protection against blood clots.
+0.004717861303907008 - Lastly, chocolate seems to make people feel better.
+0.005473931099362046 - For athletes, this may come in the form of improved recovery times after periods of exertion and for women this may come in the form of an improved sexual experience (chocolate does seem to be an aphrodesiac in its own right).
+====Centroid Iteration No. 1====
+0.004040179701350188
+0.004410199010750632
+0.004780218320151077
+0.0051502376295515205
+0.005520256938951965
+0.00589027624835241
+0.006260295557752854
+====Centroid Iteration No. 2====
+0.004122042187607767
+0.004410199010750632
+0.004726604774679746
+0.005083054160789212
+0.005534021572503885
+0.00589027624835241
+0.006260295557752854

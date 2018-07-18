@@ -1,0 +1,25 @@
+====Data Points====
+0.0032654155401649885 - Sea-buckthorn Berries May Produce a Juice so Rich in Vitamins and Antioxidants That It may be Considered a Tonic For the Heart.
+0.0020526294512547187 - Most of us have never even heard of a sea-buckthorn bush let alone the fact that the berries of this plant are a potential tonic for our hearts.
+0.004609057077491735 - Well these berries do exist and they are filled with cholesterol reducing compounds that may prevent arteries from clogging.
+0.0021146452184535756 - Sea-buckthorn berries are found from the Atlantic coast of Europe to China, although sea-buckthorn bushes seem to thrive in the semi arid deserts of central Asia.
+0.0032829938881356576 - The juice of sea-buckthorn berries has long been used in China, Tibet, Mongolia, and Russia as a health drink.
+0.001009231384566576 - Due to the acidic nature of the berries, they are not pleasant to eat.
+0.003940425896049008 - However, when mixed with other sweet juices such as apple or grape they are much more palatable for our consumption.
+0.003266562159122444 - This juice is full of vitamin C, vitamin E, amino acids, and minerals that may prevent bad cholesterol from becoming oxidized thus reducing an individual’s risk of coronary artery disease.
+0.0009558713814834124 - Recently, a new process has been developed to extract the juice of the sea-buckthorn berry that allows forty percent of the original polyphenol, fifty percent of the flavonoids and seventy percent of the vitamin C to remain in the juice.
+0.0024629199401584056 - The improvement in the extraction process may enable the juice to become more marketable for western consumers as a preventative tonic for the heart.
+====Centroid Iteration No. 1====
+0.0009558713814834124
+0.0016865085206850768
+0.0024171456598867415
+0.0031477827990884057
+0.0038784199382900708
+0.004609057077491735
+====Centroid Iteration No. 2====
+0.0009825513830249942
+0.0016865085206850768
+0.0022100648699555667
+0.003271657195807697
+0.003940425896049008
+0.004609057077491735

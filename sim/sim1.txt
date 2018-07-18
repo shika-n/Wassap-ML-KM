@@ -1,0 +1,46 @@
+====Data Points====
+0.004596845245660164 - In recent years, natural language processing (NLP) has moved to a very firm mathematical foundation.
+0.004307840110263224 - Many problems in  NLP, e.g., parsing [2] word sense disambiguation[3], and automatic paraphrasing [4]have benefited significantly by the introduction of robust statistical techniques.
+0.005362877388213182 - [1] In this paper we will discuss an unsupervised learning technique for a NLP  problem.
+0.0036549957235428848 - With the recent increase in the amount of content available online, fast and effective automatic summarization has  become more important.
+0.004234404728477376 - The need for getting maximum information by spending minimum time has led to more efforts  being directed to the field of summarization.
+0.004223985348265282 - So in this paper we will discuss an unsupervised learning technique for the Automated Summarization problem.
+0.004035731741526621 - Text summarization is the process of automatically creating a compressed version of a given text that provides useful information for the user.
+0.00496344272104532 - The information content of a summary depends on user's needs.
+0.004092309376820883 - Topic-oriented summaries focus on a user's topic of interest, and extract the information in the text that is related to the specified topic.
+0.003159725152421147 - On the other hand, generic summaries try to cover as much of the information content as  possible, preserving the general topical organization of the original text.
+0.00427870090885671 - There are basically two methods of summarization: extraction and abstraction.
+0.003676176413943641 - Extractive summarization produces summaries by choosing a subset of the sentences in the original document(s).
+0.0036529976948909155 - This contrasts with abstractive summarization, where the information in the text is rephrased.
+0.004508098268228421 - Although summaries produced by humans are typically not extractive, most of the summarization research today is on extractive summarization.
+0.004960681490462181 - Purely extractive summaries often give better results compared to automatic abstractive summaries.
+0.004445497436362349 - This is due to the fact that the problems in abstractive summarization, such as semantic representation, inference and natural language generation, are relatively harder compared to a data-driven approach such as sentence extraction.
+0.0049142510690377336 - In fact, truly abstractive summarization has not reached to a mature stage today.
+====Centroid Iteration No. 1====
+0.003159725152421147
+0.003343321172070483
+0.0035269171917198193
+0.0037105132113691556
+0.003894109231018492
+0.0040777052506678286
+0.004261301270317165
+0.004444897289966501
+0.004628493309615837
+0.004812089329265174
+0.00499568534891451
+0.005179281368563846
+0.005362877388213182
+====Centroid Iteration No. 2====
+0.003159725152421147
+0.003343321172070483
+0.0035269171917198193
+0.0036613899441258137
+0.003894109231018492
+0.004064020559173752
+0.004261232773965648
+0.004476797852295385
+0.004596845245660164
+0.004812089329265174
+0.0049461250935150785
+0.005179281368563846
+0.005362877388213182

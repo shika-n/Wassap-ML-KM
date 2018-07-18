@@ -1,0 +1,37 @@
+====Data Points====
+0.0009196583310437871 - Artificial Intelligence (AI) is a rapidly advancing technology, made possible by the Internet, that may soon have significant impacts on our everyday lives.
+-0.000583931865024177 - AI traditionally refers to an artificial creation of human-like intelligence that can learn, reason, plan, perceive, or process natural language.
+0.0010359914470554686 - These traits allow AI to bring immense socioeconomic opportunities, while also posing ethical and socio-economic challenges.
+0.0014365409637361404 - As AI is an Internet enabled technology, the Internet Society recognizes that understanding the opportunities and challenges associated with AI is critical to developing an Internet that people can trust.
+0.0019276748597722353 - This policy paper offers a look at key considerations regarding AI, including a set of guiding principles and recommendations to help those involved in policy making make sound decisions.
+0.0006488249302215972 - Of specific focus is machine learning, a particular approach to AI and the driving force behind recent developments.
+0.0009998474454425818 - Instead of programming the computer every step of the way, machine learning makes use of learning algorithms that make inferences from data to learn new tasks.
+0.0016702468007063459 - As machine learning is used more often in products and services, there are some significant considerations when it comes to users trust in the Internet.
+-0.0009552663003915468 - Several issues must be considered when addressing AI, including, socio-economic impacts; issues of transparency, bias, and accountability; new uses for data, considerations of security and safety, ethical issues; and, how AI facilitates the creation of new ecosystems.
+0.000436581843730212 - At the same time, in this complex field, there are specific challenges facing AI, which include: a lack of transparency and interpretability in decision-making; issues of data quality and potential bias; safety and security implications; considerations regarding accountability; and, its potentially disruptive impacts on social and economic structures.
+-1.586390551138327e-05 - In evaluating the different considerations and understanding the various challenges, the Internet Society has developed a set of principles and recommendations in reference to what we believe are the core abilities that underpin the value the Internet provides.
+0.0005597044720838476 - While the deployment of AI in Internet based services is not new, the current trend points to AI as an increasingly important factor in the Internet's future development and use.
+0.0007703906046029854 - As such, these guiding principles and recommendations are a first attempt to guide the debate going forward.
+0.0006535856980992133 - They include: ethical considerations in deployment and design; ensuring the Interpretability of AI systems; empowering the consumer; responsibility in the deployment of AI systems; ensuring accountability; and, creating a social and economic environment that is formed through the open participation of different stakeholders.
+====Centroid Iteration No. 1====
+-0.0009552663003915468
+-0.0006349395048177932
+-0.0003146127092440397
+5.714086329713865e-06
+0.00032604088190346734
+0.0006463676774772208
+0.0009666944730509745
+0.0012870212686247277
+0.0016073480641984814
+0.001927674859772235
+====Centroid Iteration No. 2====
+-0.0009552663003915468
+-0.000583931865024177
+-0.0003146127092440397
+-1.586390551138327e-05
+0.000436581843730212
+0.0006581264262519109
+0.0009851657411806124
+0.0014365409637361404
+0.0016702468007063459
+0.0019276748597722353

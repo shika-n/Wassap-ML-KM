@@ -1,0 +1,60 @@
+====Data Points====
+0.0029974461857098164 - Dewasa ini, perkembangan teknologi dan komunikasi yang instan mempermudah akses terhadap berbagai macam informasi dan barang ke seluruh penjuru dunia.
+0.0032546802201665493 - Baik itu informasi dan benda-benda yang mempunyai dampak positif maupun negatif.
+0.004217768393692927 - Perkembangan jaman juga membuat tuntutan masyarakat terhadap setiap pribadi menjadi lebih berat.
+0.003016887991378019 - Dengan begitu banyaknya tuntutan dan masalah, seseorang yang tidak memiliki mental dan dasar yang kuat untuk menopang dirinya menghadapi hal-hal ini rentan putus asa dan terjerat hal-hal yang bersifat negatif.
+0.0033017628834097383 - Salah satunya adalah penyalahgunaan narkoba, yang telah menjadi suatu masalah yang serius bagi masyarakat di Indonesia.
+0.003990768703907679 - Kemudahan akses terhadap informasi dan barang tidak hanya memudahkan orang dewasa memperoleh narkoba, tetapi anak-anak juga dapat ditawarkan narkoba oleh orang tidak dikenal.
+0.0036226859913124033 - Pemerintah pun gencar membuat program-program dan kebijakan-kebijakan untuk membasmi penyalahgunaan narkoba yang banyak terjadi di Indonesia.
+0.0015877419162082316 - Narkoba adalah semua zat yang memengaruhi cara bekerja pikiran, perasaan, persepsi, dan kehendak.
+0.002764424060495422 - Narkoba adalah singkatan dari narkotika, psikotropika, dan obat-obatan terlarang.
+0.00359835843461343 - Dalam Undang-Undang RI Nomor 22 Tahun 1997 tentang narkotika, narkotika adalah zat atau obat yang berasal dari tanaman atau sumber lain yang dibuat secara sintesis maupun alami yang dapat menyebabkan penurunan atau perubahan kesadaran, hilangnya rasa, mengurangi atau menghilangkan rasa nyeri dan menimbulkan ketergantungan.
+0.0015685543291050308 - Beberapa contoh narkotika adalah ganja, opium, heroin, dan kokain.
+0.003734820748282262 - Menurut Undang-Undang RI Nomor 5 Tahun 1997 tentang psikotropika, psikotropika adalah zat atau obat, baik alami maupun sintesis bukan narkotika yang berkhasiat psikoaktif memengaruhi susunan saraf pusat yang menyebabkan perubahan pada aktifitas mental dan perilaku.
+0.0025795729647123916 - Beberapa contoh dari psikotropika adalah amfetamin, ekstasi, dan shabu-shabu.
+0.0029211518915809196 - Dari beberapa kasus penyalahgunaan narkoba, narkoba berperan sebagai pelarian dari masalah-masalah yang dimiliki pemakai.
+0.0036203225216716547 - Pergaulan yang bebas dan lingkungan yang negatif juga menjadi pintu masuk bagi seseorang ke dalam jerat narkoba.
+0.003913800601792027 - Karena narkoba memberikan efek adiktif, maka sulit bagi pengguna untuk lepas dari jerat narkoba.
+0.003548613150039871 - Namun bukan berarti lepas dari jerat narkoba adalah hal yang mustahil, Karena tentunya sang Pencipta tidak menghendaki kita untuk merusak tubuh yang telah diciptakan-Nya dengan memakai zat-zat seperti narkoba.
+====Centroid Iteration No. 1====
+0.0015685543291050308
+0.0017893221678206889
+0.002010090006536347
+0.002230857845252005
+0.002451625683967663
+0.002672393522683321
+0.0028931613613989793
+0.003113929200114637
+0.003334697038830295
+0.0035554648775459534
+0.0037762327162616112
+0.0039970005549772696
+0.004217768393692927
+====Centroid Iteration No. 2====
+0.001578148122656631
+0.0017893221678206889
+0.002010090006536347
+0.002230857845252005
+0.002451625683967663
+0.002671998512603907
+0.002959299038645368
+0.003016887991378019
+0.003278221551788144
+0.00359749502440934
+0.003734820748282262
+0.003952284652849853
+0.004217768393692927
+====Centroid Iteration No. 3====
+0.001578148122656631
+0.0017893221678206889
+0.002010090006536347
+0.002230857845252005
+0.002451625683967663
+0.002671998512603907
+0.0029211518915809196
+0.0030071670885439177
+0.003278221551788144
+0.00359749502440934
+0.003734820748282262
+0.003952284652849853
+0.004217768393692927

@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<script src="simscript.js"></script>
+	</head>
+	<body style="margin: 0px;">
+		<div style="margin: 10px;">
+			<input type="file" id="fileToRead" />
+			<div>
+				File contents:
+			</div>
+
+			<button id="SContent">Show</button>
+			<div id="fileContent" style="width: 300; height: 0; overflow: auto;"></div>
+
+			<div id="iterNo">Iter No. 0</div>
+		</div>
+		
+		<canvas id="canvas" height="200"></canvas>
+
+		<div style="margin: 10px;">
+			<button id="cRefresh">Refresh</button>
+			<button id="cPrev">Prev</button>
+			<button id="cNext">Next</button>
+		</div>
+
+		<div id="dataPointString"></div>
+	</body>
+</html>

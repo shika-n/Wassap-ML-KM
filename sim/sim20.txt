@@ -1,0 +1,13 @@
+====Data Points====
+0.004606989456471052 - While it is known that citric acids can weaken tooth enamel and can cause tooth erosion, a new study shows a different take on vitamin C and oral health.
+0.004560529178257663 - Performed by Friedrich Schiller University in Germany, the study reported that eating grapefruit every day may help reduce bleeding gums and help promote the healing of gum disease.
+0.004745132117352034 - Researchers had 58 volunteers with chronic gum disease eat two grapefruits a day and found that it had a positive effect on gum disease; this was true for smokers and non-smokers.
+0.004551485653575727 - The researchers believe this is due to the increase in vitamin C, which promotes healing of wounds.
+0.004558930946902548 - Each grapefruit contains over 90 mg of vitamin C.The study was published in the British Dental Journal.
+0.004260011202854128 - If Vitamin C is the main component of healing bleeding gums, we are left to wonder if oranges and vitamin C supplements have the same affect.
+====Centroid Iteration No. 1====
+0.004260011202854128
+0.004745132117352034
+====Centroid Iteration No. 2====
+0.004260011202854128
+0.0046046134705118045

@@ -1,0 +1,16 @@
+====Data Points====
+0.0032796026198170527 - As most people know, fish oil is a healthy source of fat.
+0.005034385659524671 - A recent study suggests that it may also reduce fatty substances found in the blood of those with type 2 diabetes.
+0.003948204193006099 - The study, which studied over 40 adults taking a supplement with 4 grams of fish oil over 8 weeks, proved that it lowered levels of traicylglycerol, a fatty substance that contributes to heart disease.
+0.0034249532821749667 - They also found that levels of HDL, good cholesterol, rose with those who took fish oil.
+0.005153844401737524 - The study was reported in the Diabetes Care magazine and reported that those taking fish oil supplements showed LDL and HDL feel by almost 1%.
+0.004099347739146473 - That might not be a lot, but for diabetics, reducing the amount of fat in the blood by any amount is helpful.
+0.003924980714202135 - While taking fish oil supplements is helpful, eating fatty fish like salmon and mackerel is the natural way to get plenty of fish oils.
+====Centroid Iteration No. 1====
+0.0032796026198170527
+0.004216723510777288
+0.005153844401737524
+====Centroid Iteration No. 2====
+0.0033522779509960097
+0.003990844215451569
+0.005094115030631097

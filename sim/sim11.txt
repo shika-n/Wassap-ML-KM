@@ -1,0 +1,22 @@
+====Data Points====
+0.004773256758138267 - Cancer rates are reportedly higher in areas of northern Europe as compared to southern Europe.
+0.0058871059094686325 - And it is in southern Europe where olive oil is an important dietary component.
+0.003084798779248749 - Is there a connection between lower rates of cancer and the use of olive oil?
+0.0029971872398582454 - A Danish team of researchers from the Copenhagen University Hospital conducted a study to investigate the matter.
+0.004114304724264286 - The danish study involved 182 men between the ages of twenty and sixty, originating from five separate European nations.
+0.0031762806732763566 - In the course of the study, researchers added olive oil to their daily diet for a period of two weeks.
+0.00407540049303946 - The goal was to measure any appreciable effect on the produced levels of a substance known as 8oxodG, which correlates with cellular damage as a result of oxidation.
+0.0072006089047818 - The result?
+0.0032770687283342594 - At the end of the two week period, the study participants were found to have thirteen percent less 8oxodG in their urine, suggesting the potential for reduced levels of DNA damage (DNA damage can lead to the development of cancer) as a result of using olive oil.
+====Centroid Iteration No. 1====
+0.0029971872398582454
+0.004048042656089134
+0.0050988980723200225
+0.006149753488550911
+0.0072006089047818
+====Centroid Iteration No. 2====
+0.0031338338551794025
+0.004094852608651873
+0.004773256758138267
+0.0058871059094686325
+0.0072006089047818

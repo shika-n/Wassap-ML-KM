@@ -1,0 +1,13 @@
+docsNum = 25
+idkwgo = false
+sleepInterval = 2
+genSim = true
+hashNum = 25
+
+0 - Output at console
+1 - Save to file
+2 - Output at console and save to file
+outputSum = 1
+
+====Experimental====
+useGlobalIDF = false
